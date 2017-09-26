@@ -1,7 +1,7 @@
 # Личный проект «Пиксель хантер» [![Build status][travis-image]][travis-url]
 
 * Студент: [Алексей Е.](https://up.htmlacademy.ru/ecmascript/3/user/61758).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
